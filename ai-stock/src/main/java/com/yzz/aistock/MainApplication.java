@@ -1,4 +1,4 @@
-package com.yzz.main;
+package com.yzz.aistock;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
