@@ -13,7 +13,7 @@ import java.util.List;
 public class UserService {
 
     Logger LOGGER = LoggerFactory.getLogger(getClass());
-    
+
     @Autowired
     private UserRepository userRepository;
 
